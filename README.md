@@ -6,9 +6,12 @@ This is a travel planner application that user can add locations and travellers 
 
 - User needs to download the file and setup the Shell user and password in the files
 - After running the Shell, User should run the data base
-- User needs to seed the database by following command ~ node seeds/seed.js
-- User needs to install the npm packages by following command ~ npm i
-- User needs to run this the following command to run the server ~ npm start
+- User needs to seed the database by following command
+  ~ node seeds/seed.js
+- User needs to install the npm packages by following command
+  ~ npm i
+- User needs to run this the following command to run the server
+  ~ npm start
 
 # Description
 
